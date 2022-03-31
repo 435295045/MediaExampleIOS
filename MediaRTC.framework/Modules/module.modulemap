@@ -1,0 +1,11 @@
+framework module MediaRTC {
+  umbrella header "MediaRTC.h"
+
+  export *
+  module * { export * }
+}
+
+module MediaRTC.Swift {
+    header "MediaRTC-Swift.h"
+    requires objc
+}

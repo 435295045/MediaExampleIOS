@@ -1,0 +1,6 @@
+framework module Pods_MediaExampleIOS {
+  umbrella header "Pods-MediaExampleIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

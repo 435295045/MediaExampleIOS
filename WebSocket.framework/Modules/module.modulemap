@@ -1,0 +1,11 @@
+framework module WebSocket {
+  umbrella header "WebSocket.h"
+
+  export *
+  module * { export * }
+}
+
+module WebSocket.Swift {
+    header "WebSocket-Swift.h"
+    requires objc
+}

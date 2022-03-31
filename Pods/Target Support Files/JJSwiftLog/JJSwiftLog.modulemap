@@ -1,0 +1,6 @@
+framework module JJSwiftLog {
+  umbrella header "JJSwiftLog-umbrella.h"
+
+  export *
+  module * { export * }
+}
