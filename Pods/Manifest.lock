@@ -1,18 +1,12 @@
 PODS:
-  - GoogleWebRTC (1.1.27828)
   - JJSwiftLog (0.1.2):
     - JJSwiftLog/Main (= 0.1.2)
   - JJSwiftLog/Main (0.1.2)
   - Starscream (4.0.4)
 
 DEPENDENCIES:
-  - GoogleWebRTC
   - JJSwiftLog (from `https://github.com/jezzmemo/JJSwiftLog.git`)
   - Starscream (from `https://github.com/daltoniam/Starscream.git`)
-
-SPEC REPOS:
-  trunk:
-    - GoogleWebRTC
 
 EXTERNAL SOURCES:
   JJSwiftLog:
@@ -29,10 +23,9 @@ CHECKOUT OPTIONS:
     :git: https://github.com/daltoniam/Starscream.git
 
 SPEC CHECKSUMS:
-  GoogleWebRTC: 55e46bee9ac2a4961542e9571bea589b64493f45
   JJSwiftLog: e4e1c191f1823459574e52f49e1919cdcef388bd
   Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
 
-PODFILE CHECKSUM: 76ab09c15bd4be5a5611817d7b06014c9b2cce5a
+PODFILE CHECKSUM: 32dd947b43d6b0b2568c49db3e7ca58a035755a5
 
 COCOAPODS: 1.10.1

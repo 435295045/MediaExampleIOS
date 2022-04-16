@@ -1,11 +1,11 @@
 ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
 CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO
-FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/JJSwiftLog" "${PODS_CONFIGURATION_BUILD_DIR}/Starscream" "${PODS_ROOT}/GoogleWebRTC/Frameworks/frameworks"
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/JJSwiftLog" "${PODS_CONFIGURATION_BUILD_DIR}/Starscream"
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
 HEADER_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/JJSwiftLog/JJSwiftLog.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/Starscream/Starscream.framework/Headers"
 LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
-OTHER_CFLAGS = $(inherited) -isystem "${PODS_CONFIGURATION_BUILD_DIR}/JJSwiftLog/JJSwiftLog.framework/Headers" -isystem "${PODS_CONFIGURATION_BUILD_DIR}/Starscream/Starscream.framework/Headers" -iframework "${PODS_ROOT}/GoogleWebRTC/Frameworks/frameworks" -iframework "${PODS_CONFIGURATION_BUILD_DIR}/JJSwiftLog" -iframework "${PODS_CONFIGURATION_BUILD_DIR}/Starscream"
-OTHER_LDFLAGS = $(inherited) -framework "JJSwiftLog" -framework "Starscream" -framework "WebRTC"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_CONFIGURATION_BUILD_DIR}/JJSwiftLog/JJSwiftLog.framework/Headers" -isystem "${PODS_CONFIGURATION_BUILD_DIR}/Starscream/Starscream.framework/Headers" -iframework "${PODS_CONFIGURATION_BUILD_DIR}/JJSwiftLog" -iframework "${PODS_CONFIGURATION_BUILD_DIR}/Starscream"
+OTHER_LDFLAGS = $(inherited) -framework "JJSwiftLog" -framework "Starscream"
 OTHER_SWIFT_FLAGS = $(inherited) -D COCOAPODS
 PODS_BUILD_DIR = ${BUILD_DIR}
 PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
