@@ -14,67 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kkkoEjLaWtEvtMrrMcIhWYy7nxc=
-		</data>
-		<key>Modules/WebSocket.swiftmodule/Project/arm.swiftsourceinfo</key>
-		<data>
-		Xg+f4k+/OfJAqiWQhNRvwpPyfss=
+		9z4RjsI0GT7UJXSXRFlze0sTj44=
 		</data>
 		<key>Modules/WebSocket.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		FdoVAvR128xjIbaLFf3YZOviSQQ=
+		6kfm8pZgIofQIzzFnPs/spUzY9o=
 		</data>
 		<key>Modules/WebSocket.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		FdoVAvR128xjIbaLFf3YZOviSQQ=
-		</data>
-		<key>Modules/WebSocket.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
-		<data>
-		Xg+f4k+/OfJAqiWQhNRvwpPyfss=
-		</data>
-		<key>Modules/WebSocket.swiftmodule/Project/armv7.swiftsourceinfo</key>
-		<data>
-		Xg+f4k+/OfJAqiWQhNRvwpPyfss=
-		</data>
-		<key>Modules/WebSocket.swiftmodule/arm.swiftdoc</key>
-		<data>
-		OnxMtD4tbAJmDhX5mOi29teazbM=
-		</data>
-		<key>Modules/WebSocket.swiftmodule/arm.swiftmodule</key>
-		<data>
-		iGDLM6pCe4kL5OgBxs2hUSDUpOA=
+		6kfm8pZgIofQIzzFnPs/spUzY9o=
 		</data>
 		<key>Modules/WebSocket.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		GOJ/+uH8DOIRARotLjiTDUc+ZOk=
+		UqPqgErbau2sz1kv/zJrJD1uE0Q=
 		</data>
 		<key>Modules/WebSocket.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ID5O1YnVaUlfiZaiqrZ1i784VB4=
+		QYnxgq7m0gF26NRIUpAHsCLTW3w=
 		</data>
 		<key>Modules/WebSocket.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		GOJ/+uH8DOIRARotLjiTDUc+ZOk=
+		UqPqgErbau2sz1kv/zJrJD1uE0Q=
 		</data>
 		<key>Modules/WebSocket.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ID5O1YnVaUlfiZaiqrZ1i784VB4=
-		</data>
-		<key>Modules/WebSocket.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<data>
-		OnxMtD4tbAJmDhX5mOi29teazbM=
-		</data>
-		<key>Modules/WebSocket.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<data>
-		iGDLM6pCe4kL5OgBxs2hUSDUpOA=
-		</data>
-		<key>Modules/WebSocket.swiftmodule/armv7.swiftdoc</key>
-		<data>
-		OnxMtD4tbAJmDhX5mOi29teazbM=
-		</data>
-		<key>Modules/WebSocket.swiftmodule/armv7.swiftmodule</key>
-		<data>
-		iGDLM6pCe4kL5OgBxs2hUSDUpOA=
+		QYnxgq7m0gF26NRIUpAHsCLTW3w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,10 +49,6 @@
 	<dict>
 		<key>Headers/WebSocket-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9KBSxEDOYbpmHivSg0g3yYeGxI4=
-			</data>
 			<key>hash2</key>
 			<data>
 			cfqApR06o4CfiAdarVP6QPOJBMTpLMYw3SBWuaOyZVQ=
@@ -96,186 +56,55 @@
 		</dict>
 		<key>Headers/WebSocket.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HIl0lqetJNnbEvNdXpERXh9keIs=
-			</data>
 			<key>hash2</key>
 			<data>
 			NXQqF6cMLwyJsua9rn/t5CYgYizjt8r1liuKmdTiskM=
 			</data>
 		</dict>
-		<key>Modules/WebSocket.swiftmodule/Project/arm.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Xg+f4k+/OfJAqiWQhNRvwpPyfss=
-			</data>
-			<key>hash2</key>
-			<data>
-			0+zYsTd7bWsZBFY+7EF83j36Q7T1pRj9FnD/RrVj4j4=
-			</data>
-		</dict>
 		<key>Modules/WebSocket.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FdoVAvR128xjIbaLFf3YZOviSQQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			SEjzz+c2gcHc2e14QBuCSz3GltVD3yuP/nTiXZGgIOs=
+			4Kv62z8WEevCHCvriMoiGvI4f/TBjRANUSl45cy/+t0=
 			</data>
 		</dict>
 		<key>Modules/WebSocket.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FdoVAvR128xjIbaLFf3YZOviSQQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			SEjzz+c2gcHc2e14QBuCSz3GltVD3yuP/nTiXZGgIOs=
-			</data>
-		</dict>
-		<key>Modules/WebSocket.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Xg+f4k+/OfJAqiWQhNRvwpPyfss=
-			</data>
-			<key>hash2</key>
-			<data>
-			0+zYsTd7bWsZBFY+7EF83j36Q7T1pRj9FnD/RrVj4j4=
-			</data>
-		</dict>
-		<key>Modules/WebSocket.swiftmodule/Project/armv7.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Xg+f4k+/OfJAqiWQhNRvwpPyfss=
-			</data>
-			<key>hash2</key>
-			<data>
-			0+zYsTd7bWsZBFY+7EF83j36Q7T1pRj9FnD/RrVj4j4=
-			</data>
-		</dict>
-		<key>Modules/WebSocket.swiftmodule/arm.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OnxMtD4tbAJmDhX5mOi29teazbM=
-			</data>
-			<key>hash2</key>
-			<data>
-			rdPqZAyEMPYfzVjpXNRqFjM6/eY4KTMe2QGXwn+HxJI=
-			</data>
-		</dict>
-		<key>Modules/WebSocket.swiftmodule/arm.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iGDLM6pCe4kL5OgBxs2hUSDUpOA=
-			</data>
-			<key>hash2</key>
-			<data>
-			io4RJwNjyRnltXrJTnZTXjHrTg3+vHOQebbdCV6d0WI=
+			4Kv62z8WEevCHCvriMoiGvI4f/TBjRANUSl45cy/+t0=
 			</data>
 		</dict>
 		<key>Modules/WebSocket.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GOJ/+uH8DOIRARotLjiTDUc+ZOk=
-			</data>
 			<key>hash2</key>
 			<data>
-			xFKiGUNqk8c4S6kKwx0QQ5mMWxjIjqZEbnGC70EEPnE=
+			AR7kKQWN4Oz27kZLdPY308KHqj42pdmkGp/FY5ycf64=
 			</data>
 		</dict>
 		<key>Modules/WebSocket.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ID5O1YnVaUlfiZaiqrZ1i784VB4=
-			</data>
 			<key>hash2</key>
 			<data>
-			akDUAwXkRQqSihLXPJZdcH8bgv5yqQ4ZWGv6zGd0Lvs=
+			PeKuPy1xArHFixKQagQMzSPCQ/vVp/WP8rMx0dZoSgM=
 			</data>
 		</dict>
 		<key>Modules/WebSocket.swiftmodule/arm64.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GOJ/+uH8DOIRARotLjiTDUc+ZOk=
-			</data>
 			<key>hash2</key>
 			<data>
-			xFKiGUNqk8c4S6kKwx0QQ5mMWxjIjqZEbnGC70EEPnE=
+			AR7kKQWN4Oz27kZLdPY308KHqj42pdmkGp/FY5ycf64=
 			</data>
 		</dict>
 		<key>Modules/WebSocket.swiftmodule/arm64.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ID5O1YnVaUlfiZaiqrZ1i784VB4=
-			</data>
 			<key>hash2</key>
 			<data>
-			akDUAwXkRQqSihLXPJZdcH8bgv5yqQ4ZWGv6zGd0Lvs=
-			</data>
-		</dict>
-		<key>Modules/WebSocket.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OnxMtD4tbAJmDhX5mOi29teazbM=
-			</data>
-			<key>hash2</key>
-			<data>
-			rdPqZAyEMPYfzVjpXNRqFjM6/eY4KTMe2QGXwn+HxJI=
-			</data>
-		</dict>
-		<key>Modules/WebSocket.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iGDLM6pCe4kL5OgBxs2hUSDUpOA=
-			</data>
-			<key>hash2</key>
-			<data>
-			io4RJwNjyRnltXrJTnZTXjHrTg3+vHOQebbdCV6d0WI=
-			</data>
-		</dict>
-		<key>Modules/WebSocket.swiftmodule/armv7.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OnxMtD4tbAJmDhX5mOi29teazbM=
-			</data>
-			<key>hash2</key>
-			<data>
-			rdPqZAyEMPYfzVjpXNRqFjM6/eY4KTMe2QGXwn+HxJI=
-			</data>
-		</dict>
-		<key>Modules/WebSocket.swiftmodule/armv7.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iGDLM6pCe4kL5OgBxs2hUSDUpOA=
-			</data>
-			<key>hash2</key>
-			<data>
-			io4RJwNjyRnltXrJTnZTXjHrTg3+vHOQebbdCV6d0WI=
+			PeKuPy1xArHFixKQagQMzSPCQ/vVp/WP8rMx0dZoSgM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hgU+J1b5DmbHjwzeW649rPvmbwU=
-			</data>
 			<key>hash2</key>
 			<data>
 			m8B6vMrYDiz6CKYFOMZQzCQs2JPTAM3l1lO0tMijG68=

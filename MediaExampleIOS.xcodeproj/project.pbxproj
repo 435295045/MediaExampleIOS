@@ -7,36 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2E00974AB889D797F16A8AB5 /* Pods_MediaExampleIOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3E6A46B4C635CCA226D3BB1 /* Pods_MediaExampleIOS.framework */; };
+		69B212A898A70F4BF2178FB6 /* ScreenSizeUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B2182F5CEDAE7BE5A60043 /* ScreenSizeUtil.swift */; };
+		69B213291D1AC8FB1BE41B9B /* DoorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21124309D28EEEB831500 /* DoorView.swift */; };
 		69B2143138470551E54D7BB4 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 69B21588375189516723394D /* .gitignore */; };
-		F64D5DE927F595D700FAEC13 /* MediaExampleIOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5DE827F595D700FAEC13 /* MediaExampleIOSApp.swift */; };
+		69B2148FA7CE167B315009DD /* RTCRenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B2151CF2434036B9C530AD /* RTCRenderView.swift */; };
+		69B21543317FF578D5B44C83 /* GroupViewRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21C203011FD4D1A733158 /* GroupViewRepresentation.swift */; };
+		69B216625AF5E6D97CB3ABEF /* CameraFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21F05282248EDD836A476 /* CameraFilter.swift */; };
+		69B216A7E69970F26A9AB38C /* P2PViewRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21DD409B44B03DA15AA1F /* P2PViewRepresentation.swift */; };
+		69B21713B94063F6DD8C7855 /* RoomViewRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B211FD47017DF7B39870F0 /* RoomViewRepresentation.swift */; };
+		69B2175C7D92B33C2DCF4F84 /* DoorViewRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21A99EE3D573821A97363 /* DoorViewRepresentation.swift */; };
+		69B217B5D355D1CE1C9B0BDA /* TextFieldAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21A78D20AE423640DBF91 /* TextFieldAlert.swift */; };
+		69B218DE096BAEEA529002FB /* P2PViewList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21F39EA4D0A800193B101 /* P2PViewList.swift */; };
+		69B2194EBE26E341E7574734 /* P2PView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21A0AD41F6D521013B82D /* P2PView.swift */; };
+		69B21AE4049D2A58898EB15F /* MediaSDKApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21AA544335CD4945C84FD /* MediaSDKApp.swift */; };
+		69B21B5F2737921A8D4C46C6 /* ViewRoomOperationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B216AF67A1D102BAB53E9A /* ViewRoomOperationController.swift */; };
+		69B21C75575833A315A97E80 /* TextTipsAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B217DAA25E99415705B9BD /* TextTipsAlert.swift */; };
+		69B21C955829A2F0C32437A5 /* NSUserDefaultsUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B216AAB283FB13268A3763 /* NSUserDefaultsUtils.swift */; };
+		69B21CD6E693EBA3C3E6504E /* CameraSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B2107601C1A014B60A5611 /* CameraSession.swift */; };
+		69B21E2B814C3B4D3BEC4A6F /* GroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B2118708965A63E195C5A8 /* GroupView.swift */; };
+		69B21E30EF4402824B9B56D2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21A530D163B6414974FC5 /* ContentView.swift */; };
+		69B21EC30306C07F0B8E9E71 /* RoomViewList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B21626FE7F1F7DCE447214 /* RoomViewList.swift */; };
+		69B21EF823A5AD8FC7BA6A64 /* RoomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B219BB8C31B7A249EF5F0F /* RoomView.swift */; };
+		69B21F7D6EAC039C09D85635 /* JYSystemAuthorityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B216F52EC2DB9E1337AFEB /* JYSystemAuthorityModel.swift */; };
+		F64BC26F282CB4AF0020613F /* WebSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F64BC26E282CB4AF0020613F /* WebSocket.framework */; };
+		F64BC270282CB4AF0020613F /* WebSocket.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F64BC26E282CB4AF0020613F /* WebSocket.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F64BC272282CB4B90020613F /* MediaRTC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F64BC271282CB4B90020613F /* MediaRTC.framework */; };
+		F64BC273282CB4B90020613F /* MediaRTC.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F64BC271282CB4B90020613F /* MediaRTC.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F64D5DED27F595DB00FAEC13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F64D5DEC27F595DB00FAEC13 /* Assets.xcassets */; };
 		F64D5DF027F595DB00FAEC13 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F64D5DEF27F595DB00FAEC13 /* Preview Assets.xcassets */; };
-		F64D5E1227F599A000FAEC13 /* P2PViewRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5DF827F5999F00FAEC13 /* P2PViewRepresentation.swift */; };
-		F64D5E1327F599A000FAEC13 /* ViewRoomOperationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5DF927F5999F00FAEC13 /* ViewRoomOperationController.swift */; };
-		F64D5E1427F599A000FAEC13 /* P2PView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5DFA27F5999F00FAEC13 /* P2PView.swift */; };
-		F64D5E1527F599A000FAEC13 /* P2PViewList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5DFB27F5999F00FAEC13 /* P2PViewList.swift */; };
-		F64D5E1627F599A000FAEC13 /* TextFieldAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5DFD27F5999F00FAEC13 /* TextFieldAlert.swift */; };
-		F64D5E1727F599A000FAEC13 /* ScreenSizeUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5DFE27F5999F00FAEC13 /* ScreenSizeUtil.swift */; };
-		F64D5E1827F599A000FAEC13 /* RTCRenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5DFF27F5999F00FAEC13 /* RTCRenderView.swift */; };
-		F64D5E1927F599A000FAEC13 /* NSUserDefaultsUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E0127F599A000FAEC13 /* NSUserDefaultsUtils.swift */; };
-		F64D5E1B27F599A000FAEC13 /* CameraSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E0427F599A000FAEC13 /* CameraSession.swift */; };
-		F64D5E1C27F599A000FAEC13 /* CameraFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E0627F599A000FAEC13 /* CameraFilter.swift */; };
-		F64D5E1D27F599A000FAEC13 /* JYSystemAuthorityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E0727F599A000FAEC13 /* JYSystemAuthorityModel.swift */; };
-		F64D5E1E27F599A000FAEC13 /* DoorViewRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E0927F599A000FAEC13 /* DoorViewRepresentation.swift */; };
-		F64D5E1F27F599A000FAEC13 /* DoorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E0A27F599A000FAEC13 /* DoorView.swift */; };
-		F64D5E2027F599A000FAEC13 /* RoomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E0C27F599A000FAEC13 /* RoomView.swift */; };
-		F64D5E2127F599A000FAEC13 /* RoomViewList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E0D27F599A000FAEC13 /* RoomViewList.swift */; };
-		F64D5E2227F599A000FAEC13 /* RoomViewRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E0E27F599A000FAEC13 /* RoomViewRepresentation.swift */; };
-		F64D5E2327F599A000FAEC13 /* GroupViewRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E1027F599A000FAEC13 /* GroupViewRepresentation.swift */; };
-		F64D5E2427F599A000FAEC13 /* GroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E1127F599A000FAEC13 /* GroupView.swift */; };
-		F64D5E2627F599A600FAEC13 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64D5E2527F599A600FAEC13 /* ContentView.swift */; };
 		F6537DD2280A4BAA000D1D4D /* WebRTC.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6537DD0280A4BA1000D1D4D /* WebRTC.xcframework */; };
 		F6537DD3280A4BAA000D1D4D /* WebRTC.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6537DD0280A4BA1000D1D4D /* WebRTC.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		F6537DDA280A4DC2000D1D4D /* WebSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6537DD8280A4DB8000D1D4D /* WebSocket.framework */; };
-		F6537DDB280A4DC2000D1D4D /* WebSocket.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6537DD8280A4DB8000D1D4D /* WebSocket.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		F6537DE0280A5A26000D1D4D /* MediaRTC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6537DDE280A5929000D1D4D /* MediaRTC.framework */; };
-		F6537DE1280A5A26000D1D4D /* MediaRTC.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6537DDE280A5929000D1D4D /* MediaRTC.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,8 +46,8 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				F6537DDB280A4DC2000D1D4D /* WebSocket.framework in Embed Frameworks */,
-				F6537DE1280A5A26000D1D4D /* MediaRTC.framework in Embed Frameworks */,
+				F64BC270282CB4AF0020613F /* WebSocket.framework in Embed Frameworks */,
+				F64BC273282CB4B90020613F /* MediaRTC.framework in Embed Frameworks */,
 				F6537DD3280A4BAA000D1D4D /* WebRTC.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
@@ -56,37 +56,37 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6834E419CACECDD6E1FDEBDA /* Pods-MediaExampleIOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MediaExampleIOS.release.xcconfig"; path = "Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS.release.xcconfig"; sourceTree = "<group>"; };
+		69B2107601C1A014B60A5611 /* CameraSession.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraSession.swift; sourceTree = "<group>"; };
+		69B21124309D28EEEB831500 /* DoorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoorView.swift; sourceTree = "<group>"; };
+		69B2118708965A63E195C5A8 /* GroupView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroupView.swift; sourceTree = "<group>"; };
+		69B211FD47017DF7B39870F0 /* RoomViewRepresentation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomViewRepresentation.swift; sourceTree = "<group>"; };
+		69B2151CF2434036B9C530AD /* RTCRenderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RTCRenderView.swift; sourceTree = "<group>"; };
 		69B21588375189516723394D /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
-		99E700EE670C4811C9A4F49A /* Pods-MediaExampleIOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MediaExampleIOS.debug.xcconfig"; path = "Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS.debug.xcconfig"; sourceTree = "<group>"; };
-		B3E6A46B4C635CCA226D3BB1 /* Pods_MediaExampleIOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MediaExampleIOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EC173DD162E0AF909A53579D /* Pods-MediaExampleIOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MediaExampleIOS.release.xcconfig"; path = "Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS.release.xcconfig"; sourceTree = "<group>"; };
+		69B21626FE7F1F7DCE447214 /* RoomViewList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomViewList.swift; sourceTree = "<group>"; };
+		69B216AAB283FB13268A3763 /* NSUserDefaultsUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSUserDefaultsUtils.swift; sourceTree = "<group>"; };
+		69B216AF67A1D102BAB53E9A /* ViewRoomOperationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewRoomOperationController.swift; sourceTree = "<group>"; };
+		69B216F52EC2DB9E1337AFEB /* JYSystemAuthorityModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JYSystemAuthorityModel.swift; sourceTree = "<group>"; };
+		69B217DAA25E99415705B9BD /* TextTipsAlert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextTipsAlert.swift; sourceTree = "<group>"; };
+		69B2182F5CEDAE7BE5A60043 /* ScreenSizeUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScreenSizeUtil.swift; sourceTree = "<group>"; };
+		69B219BB8C31B7A249EF5F0F /* RoomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomView.swift; sourceTree = "<group>"; };
+		69B21A0AD41F6D521013B82D /* P2PView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = P2PView.swift; sourceTree = "<group>"; };
+		69B21A530D163B6414974FC5 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		69B21A78D20AE423640DBF91 /* TextFieldAlert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldAlert.swift; sourceTree = "<group>"; };
+		69B21A99EE3D573821A97363 /* DoorViewRepresentation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoorViewRepresentation.swift; sourceTree = "<group>"; };
+		69B21AA544335CD4945C84FD /* MediaSDKApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MediaSDKApp.swift; sourceTree = "<group>"; };
+		69B21C203011FD4D1A733158 /* GroupViewRepresentation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroupViewRepresentation.swift; sourceTree = "<group>"; };
+		69B21DD409B44B03DA15AA1F /* P2PViewRepresentation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = P2PViewRepresentation.swift; sourceTree = "<group>"; };
+		69B21F05282248EDD836A476 /* CameraFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraFilter.swift; sourceTree = "<group>"; };
+		69B21F39EA4D0A800193B101 /* P2PViewList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = P2PViewList.swift; sourceTree = "<group>"; };
+		BA60426175ECDADFC53BA250 /* Pods-MediaExampleIOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MediaExampleIOS.debug.xcconfig"; path = "Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS.debug.xcconfig"; sourceTree = "<group>"; };
+		F64BC26E282CB4AF0020613F /* WebSocket.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebSocket.framework; sourceTree = "<group>"; };
+		F64BC271282CB4B90020613F /* MediaRTC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MediaRTC.framework; sourceTree = "<group>"; };
 		F64D5DE527F595D700FAEC13 /* MediaExampleIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MediaExampleIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F64D5DE827F595D700FAEC13 /* MediaExampleIOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaExampleIOSApp.swift; sourceTree = "<group>"; };
 		F64D5DEC27F595DB00FAEC13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F64D5DEF27F595DB00FAEC13 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F64D5DF127F595DB00FAEC13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F64D5DF827F5999F00FAEC13 /* P2PViewRepresentation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = P2PViewRepresentation.swift; sourceTree = "<group>"; };
-		F64D5DF927F5999F00FAEC13 /* ViewRoomOperationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewRoomOperationController.swift; sourceTree = "<group>"; };
-		F64D5DFA27F5999F00FAEC13 /* P2PView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = P2PView.swift; sourceTree = "<group>"; };
-		F64D5DFB27F5999F00FAEC13 /* P2PViewList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = P2PViewList.swift; sourceTree = "<group>"; };
-		F64D5DFD27F5999F00FAEC13 /* TextFieldAlert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldAlert.swift; sourceTree = "<group>"; };
-		F64D5DFE27F5999F00FAEC13 /* ScreenSizeUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScreenSizeUtil.swift; sourceTree = "<group>"; };
-		F64D5DFF27F5999F00FAEC13 /* RTCRenderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RTCRenderView.swift; sourceTree = "<group>"; };
-		F64D5E0127F599A000FAEC13 /* NSUserDefaultsUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSUserDefaultsUtils.swift; sourceTree = "<group>"; };
-		F64D5E0427F599A000FAEC13 /* CameraSession.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraSession.swift; sourceTree = "<group>"; };
-		F64D5E0627F599A000FAEC13 /* CameraFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraFilter.swift; sourceTree = "<group>"; };
-		F64D5E0727F599A000FAEC13 /* JYSystemAuthorityModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JYSystemAuthorityModel.swift; sourceTree = "<group>"; };
-		F64D5E0927F599A000FAEC13 /* DoorViewRepresentation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoorViewRepresentation.swift; sourceTree = "<group>"; };
-		F64D5E0A27F599A000FAEC13 /* DoorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoorView.swift; sourceTree = "<group>"; };
-		F64D5E0C27F599A000FAEC13 /* RoomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomView.swift; sourceTree = "<group>"; };
-		F64D5E0D27F599A000FAEC13 /* RoomViewList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomViewList.swift; sourceTree = "<group>"; };
-		F64D5E0E27F599A000FAEC13 /* RoomViewRepresentation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomViewRepresentation.swift; sourceTree = "<group>"; };
-		F64D5E1027F599A000FAEC13 /* GroupViewRepresentation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroupViewRepresentation.swift; sourceTree = "<group>"; };
-		F64D5E1127F599A000FAEC13 /* GroupView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroupView.swift; sourceTree = "<group>"; };
-		F64D5E2527F599A600FAEC13 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = View/ContentView.swift; sourceTree = "<group>"; };
 		F6537DD0280A4BA1000D1D4D /* WebRTC.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = WebRTC.xcframework; sourceTree = "<group>"; };
-		F6537DD8280A4DB8000D1D4D /* WebSocket.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebSocket.framework; path = "../../../Library/Caches/JetBrains/AppCode2021.1/DerivedData/MediaSDK-cpfoylthzjesllgiwfinshzinpbu/Build/Products/Debug-iphoneos/WebSocket.framework"; sourceTree = "<group>"; };
-		F6537DDE280A5929000D1D4D /* MediaRTC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaRTC.framework; path = "../../../Library/Caches/JetBrains/AppCode2021.1/DerivedData/MediaSDK-cpfoylthzjesllgiwfinshzinpbu/Build/Products/Debug-iphoneos/MediaRTC.framework"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,21 +94,94 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F64BC26F282CB4AF0020613F /* WebSocket.framework in Frameworks */,
+				F64BC272282CB4B90020613F /* MediaRTC.framework in Frameworks */,
 				F6537DD2280A4BAA000D1D4D /* WebRTC.xcframework in Frameworks */,
-				2E00974AB889D797F16A8AB5 /* Pods_MediaExampleIOS.framework in Frameworks */,
-				F6537DDA280A4DC2000D1D4D /* WebSocket.framework in Frameworks */,
-				F6537DE0280A5A26000D1D4D /* MediaRTC.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		69B210FBB900AE96ACCC2FAE /* P2P */ = {
+			isa = PBXGroup;
+			children = (
+				69B21A0AD41F6D521013B82D /* P2PView.swift */,
+				69B21F39EA4D0A800193B101 /* P2PViewList.swift */,
+				69B21DD409B44B03DA15AA1F /* P2PViewRepresentation.swift */,
+				69B216AF67A1D102BAB53E9A /* ViewRoomOperationController.swift */,
+			);
+			path = P2P;
+			sourceTree = "<group>";
+		};
+		69B2116A850F946EC24BC8D6 /* Room */ = {
+			isa = PBXGroup;
+			children = (
+				69B219BB8C31B7A249EF5F0F /* RoomView.swift */,
+				69B21626FE7F1F7DCE447214 /* RoomViewList.swift */,
+				69B211FD47017DF7B39870F0 /* RoomViewRepresentation.swift */,
+			);
+			path = Room;
+			sourceTree = "<group>";
+		};
+		69B212430DD9FBD2BBB2CD3D /* CameraSession */ = {
+			isa = PBXGroup;
+			children = (
+				69B2107601C1A014B60A5611 /* CameraSession.swift */,
+			);
+			path = CameraSession;
+			sourceTree = "<group>";
+		};
+		69B213665D5F89B9308F3A58 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				69B2151CF2434036B9C530AD /* RTCRenderView.swift */,
+				69B217DAA25E99415705B9BD /* TextTipsAlert.swift */,
+				69B2182F5CEDAE7BE5A60043 /* ScreenSizeUtil.swift */,
+				69B21A78D20AE423640DBF91 /* TextFieldAlert.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		69B2151A452434B3057EE307 /* Door */ = {
+			isa = PBXGroup;
+			children = (
+				69B21124309D28EEEB831500 /* DoorView.swift */,
+				69B21A99EE3D573821A97363 /* DoorViewRepresentation.swift */,
+			);
+			path = Door;
+			sourceTree = "<group>";
+		};
+		69B21916D1772094BC4CB6CD /* Group */ = {
+			isa = PBXGroup;
+			children = (
+				69B2118708965A63E195C5A8 /* GroupView.swift */,
+				69B21C203011FD4D1A733158 /* GroupViewRepresentation.swift */,
+			);
+			path = Group;
+			sourceTree = "<group>";
+		};
+		69B21C41AAB1AC7C54FC3570 /* CameraFilter */ = {
+			isa = PBXGroup;
+			children = (
+				69B21F05282248EDD836A476 /* CameraFilter.swift */,
+			);
+			path = CameraFilter;
+			sourceTree = "<group>";
+		};
+		69B21E41FF67921AAC28FA8E /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				69B216AAB283FB13268A3763 /* NSUserDefaultsUtils.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
 		8C2F78926AE3143BE335DB27 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				99E700EE670C4811C9A4F49A /* Pods-MediaExampleIOS.debug.xcconfig */,
-				EC173DD162E0AF909A53579D /* Pods-MediaExampleIOS.release.xcconfig */,
+				BA60426175ECDADFC53BA250 /* Pods-MediaExampleIOS.debug.xcconfig */,
+				6834E419CACECDD6E1FDEBDA /* Pods-MediaExampleIOS.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -116,10 +189,9 @@
 		8C2F8C632D462199FCC60065 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				F6537DDE280A5929000D1D4D /* MediaRTC.framework */,
-				F6537DD8280A4DB8000D1D4D /* WebSocket.framework */,
+				F64BC271282CB4B90020613F /* MediaRTC.framework */,
+				F64BC26E282CB4AF0020613F /* WebSocket.framework */,
 				F6537DD0280A4BA1000D1D4D /* WebRTC.xcframework */,
-				B3E6A46B4C635CCA226D3BB1 /* Pods_MediaExampleIOS.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -146,20 +218,20 @@
 		F64D5DE727F595D700FAEC13 /* MediaExampleIOS */ = {
 			isa = PBXGroup;
 			children = (
-				F64D5E0527F599A000FAEC13 /* CameraFilter */,
-				F64D5E0327F599A000FAEC13 /* CameraSession */,
-				F64D5E0827F599A000FAEC13 /* Door */,
-				F64D5E0F27F599A000FAEC13 /* Group */,
-				F64D5DF727F5999F00FAEC13 /* P2P */,
-				F64D5E0B27F599A000FAEC13 /* Room */,
-				F64D5E0027F599A000FAEC13 /* Utils */,
-				F64D5DFC27F5999F00FAEC13 /* View */,
-				F64D5E2527F599A600FAEC13 /* ContentView.swift */,
-				F64D5DE827F595D700FAEC13 /* MediaExampleIOSApp.swift */,
-				F64D5E0727F599A000FAEC13 /* JYSystemAuthorityModel.swift */,
 				F64D5DEC27F595DB00FAEC13 /* Assets.xcassets */,
 				F64D5DF127F595DB00FAEC13 /* Info.plist */,
 				F64D5DEE27F595DB00FAEC13 /* Preview Content */,
+				69B21C41AAB1AC7C54FC3570 /* CameraFilter */,
+				69B212430DD9FBD2BBB2CD3D /* CameraSession */,
+				69B21A530D163B6414974FC5 /* ContentView.swift */,
+				69B2151A452434B3057EE307 /* Door */,
+				69B21916D1772094BC4CB6CD /* Group */,
+				69B216F52EC2DB9E1337AFEB /* JYSystemAuthorityModel.swift */,
+				69B21AA544335CD4945C84FD /* MediaSDKApp.swift */,
+				69B210FBB900AE96ACCC2FAE /* P2P */,
+				69B2116A850F946EC24BC8D6 /* Room */,
+				69B21E41FF67921AAC28FA8E /* Utils */,
+				69B213665D5F89B9308F3A58 /* View */,
 			);
 			path = MediaExampleIOS;
 			sourceTree = "<group>";
@@ -172,79 +244,6 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		F64D5DF727F5999F00FAEC13 /* P2P */ = {
-			isa = PBXGroup;
-			children = (
-				F64D5DF827F5999F00FAEC13 /* P2PViewRepresentation.swift */,
-				F64D5DF927F5999F00FAEC13 /* ViewRoomOperationController.swift */,
-				F64D5DFA27F5999F00FAEC13 /* P2PView.swift */,
-				F64D5DFB27F5999F00FAEC13 /* P2PViewList.swift */,
-			);
-			path = P2P;
-			sourceTree = "<group>";
-		};
-		F64D5DFC27F5999F00FAEC13 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				F64D5DFD27F5999F00FAEC13 /* TextFieldAlert.swift */,
-				F64D5DFE27F5999F00FAEC13 /* ScreenSizeUtil.swift */,
-				F64D5DFF27F5999F00FAEC13 /* RTCRenderView.swift */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		F64D5E0027F599A000FAEC13 /* Utils */ = {
-			isa = PBXGroup;
-			children = (
-				F64D5E0127F599A000FAEC13 /* NSUserDefaultsUtils.swift */,
-			);
-			path = Utils;
-			sourceTree = "<group>";
-		};
-		F64D5E0327F599A000FAEC13 /* CameraSession */ = {
-			isa = PBXGroup;
-			children = (
-				F64D5E0427F599A000FAEC13 /* CameraSession.swift */,
-			);
-			path = CameraSession;
-			sourceTree = "<group>";
-		};
-		F64D5E0527F599A000FAEC13 /* CameraFilter */ = {
-			isa = PBXGroup;
-			children = (
-				F64D5E0627F599A000FAEC13 /* CameraFilter.swift */,
-			);
-			path = CameraFilter;
-			sourceTree = "<group>";
-		};
-		F64D5E0827F599A000FAEC13 /* Door */ = {
-			isa = PBXGroup;
-			children = (
-				F64D5E0927F599A000FAEC13 /* DoorViewRepresentation.swift */,
-				F64D5E0A27F599A000FAEC13 /* DoorView.swift */,
-			);
-			path = Door;
-			sourceTree = "<group>";
-		};
-		F64D5E0B27F599A000FAEC13 /* Room */ = {
-			isa = PBXGroup;
-			children = (
-				F64D5E0C27F599A000FAEC13 /* RoomView.swift */,
-				F64D5E0D27F599A000FAEC13 /* RoomViewList.swift */,
-				F64D5E0E27F599A000FAEC13 /* RoomViewRepresentation.swift */,
-			);
-			path = Room;
-			sourceTree = "<group>";
-		};
-		F64D5E0F27F599A000FAEC13 /* Group */ = {
-			isa = PBXGroup;
-			children = (
-				F64D5E1027F599A000FAEC13 /* GroupViewRepresentation.swift */,
-				F64D5E1127F599A000FAEC13 /* GroupView.swift */,
-			);
-			path = Group;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -252,12 +251,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F64D5DF427F595DB00FAEC13 /* Build configuration list for PBXNativeTarget "MediaExampleIOS" */;
 			buildPhases = (
-				1E3FD8875A8105E1523229A7 /* [CP] Check Pods Manifest.lock */,
+				F7CEB457DA6652A84BED5EF2 /* [CP] Check Pods Manifest.lock */,
 				F64D5DE127F595D700FAEC13 /* Sources */,
 				F64D5DE227F595D700FAEC13 /* Frameworks */,
 				F64D5DE327F595D700FAEC13 /* Resources */,
 				F64D5E2D27F59A7000FAEC13 /* Embed Frameworks */,
-				EB141E95A787A585640E2749 /* [CP] Embed Pods Frameworks */,
+				6866F1C9C8E47683D79AD74D /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -314,7 +313,24 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		1E3FD8875A8105E1523229A7 /* [CP] Check Pods Manifest.lock */ = {
+		6866F1C9C8E47683D79AD74D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F7CEB457DA6652A84BED5EF2 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -336,23 +352,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		EB141E95A787A585640E2749 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -360,26 +359,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F64D5E1727F599A000FAEC13 /* ScreenSizeUtil.swift in Sources */,
-				F64D5E2427F599A000FAEC13 /* GroupView.swift in Sources */,
-				F64D5E2027F599A000FAEC13 /* RoomView.swift in Sources */,
-				F64D5E1227F599A000FAEC13 /* P2PViewRepresentation.swift in Sources */,
-				F64D5E2227F599A000FAEC13 /* RoomViewRepresentation.swift in Sources */,
-				F64D5E1827F599A000FAEC13 /* RTCRenderView.swift in Sources */,
-				F64D5E2127F599A000FAEC13 /* RoomViewList.swift in Sources */,
-				F64D5E1627F599A000FAEC13 /* TextFieldAlert.swift in Sources */,
-				F64D5DE927F595D700FAEC13 /* MediaExampleIOSApp.swift in Sources */,
-				F64D5E1B27F599A000FAEC13 /* CameraSession.swift in Sources */,
-				F64D5E2627F599A600FAEC13 /* ContentView.swift in Sources */,
-				F64D5E2327F599A000FAEC13 /* GroupViewRepresentation.swift in Sources */,
-				F64D5E1F27F599A000FAEC13 /* DoorView.swift in Sources */,
-				F64D5E1C27F599A000FAEC13 /* CameraFilter.swift in Sources */,
-				F64D5E1527F599A000FAEC13 /* P2PViewList.swift in Sources */,
-				F64D5E1327F599A000FAEC13 /* ViewRoomOperationController.swift in Sources */,
-				F64D5E1427F599A000FAEC13 /* P2PView.swift in Sources */,
-				F64D5E1927F599A000FAEC13 /* NSUserDefaultsUtils.swift in Sources */,
-				F64D5E1E27F599A000FAEC13 /* DoorViewRepresentation.swift in Sources */,
-				F64D5E1D27F599A000FAEC13 /* JYSystemAuthorityModel.swift in Sources */,
+				69B216625AF5E6D97CB3ABEF /* CameraFilter.swift in Sources */,
+				69B21CD6E693EBA3C3E6504E /* CameraSession.swift in Sources */,
+				69B21E30EF4402824B9B56D2 /* ContentView.swift in Sources */,
+				69B213291D1AC8FB1BE41B9B /* DoorView.swift in Sources */,
+				69B2175C7D92B33C2DCF4F84 /* DoorViewRepresentation.swift in Sources */,
+				69B21E2B814C3B4D3BEC4A6F /* GroupView.swift in Sources */,
+				69B21543317FF578D5B44C83 /* GroupViewRepresentation.swift in Sources */,
+				69B21F7D6EAC039C09D85635 /* JYSystemAuthorityModel.swift in Sources */,
+				69B21AE4049D2A58898EB15F /* MediaSDKApp.swift in Sources */,
+				69B2194EBE26E341E7574734 /* P2PView.swift in Sources */,
+				69B218DE096BAEEA529002FB /* P2PViewList.swift in Sources */,
+				69B216A7E69970F26A9AB38C /* P2PViewRepresentation.swift in Sources */,
+				69B21B5F2737921A8D4C46C6 /* ViewRoomOperationController.swift in Sources */,
+				69B21EF823A5AD8FC7BA6A64 /* RoomView.swift in Sources */,
+				69B21EC30306C07F0B8E9E71 /* RoomViewList.swift in Sources */,
+				69B21713B94063F6DD8C7855 /* RoomViewRepresentation.swift in Sources */,
+				69B21C955829A2F0C32437A5 /* NSUserDefaultsUtils.swift in Sources */,
+				69B2148FA7CE167B315009DD /* RTCRenderView.swift in Sources */,
+				69B21C75575833A315A97E80 /* TextTipsAlert.swift in Sources */,
+				69B212A898A70F4BF2178FB6 /* ScreenSizeUtil.swift in Sources */,
+				69B217B5D355D1CE1C9B0BDA /* TextFieldAlert.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -421,6 +421,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -482,6 +483,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -504,20 +506,18 @@
 		};
 		F64D5DF527F595DB00FAEC13 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 99E700EE670C4811C9A4F49A /* Pods-MediaExampleIOS.debug.xcconfig */;
+			baseConfigurationReference = BA60426175ECDADFC53BA250 /* Pods-MediaExampleIOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"MediaExampleIOS/Preview Content\"";
-				DEVELOPMENT_TEAM = T9NCL47AT6;
+				DEVELOPMENT_TEAM = PUETNY66XG;
 				ENABLE_BITCODE = NO;
 				ENABLE_PREVIEWS = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
-					"$(USER_LIBRARY_DIR)/Caches/JetBrains/AppCode2021.1/DerivedData/MediaSDK-aeccbsuzwdgpbiglatkzrvzfbeko/Build/Products/Debug-iphoneos",
-					"$(USER_LIBRARY_DIR)/Caches/JetBrains/AppCode2021.1/DerivedData/MediaSDK-cpfoylthzjesllgiwfinshzinpbu/Build/Products/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = MediaExampleIOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -534,20 +534,18 @@
 		};
 		F64D5DF627F595DB00FAEC13 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EC173DD162E0AF909A53579D /* Pods-MediaExampleIOS.release.xcconfig */;
+			baseConfigurationReference = 6834E419CACECDD6E1FDEBDA /* Pods-MediaExampleIOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"MediaExampleIOS/Preview Content\"";
-				DEVELOPMENT_TEAM = T9NCL47AT6;
+				DEVELOPMENT_TEAM = PUETNY66XG;
 				ENABLE_BITCODE = NO;
 				ENABLE_PREVIEWS = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
-					"$(USER_LIBRARY_DIR)/Caches/JetBrains/AppCode2021.1/DerivedData/MediaSDK-aeccbsuzwdgpbiglatkzrvzfbeko/Build/Products/Debug-iphoneos",
-					"$(USER_LIBRARY_DIR)/Caches/JetBrains/AppCode2021.1/DerivedData/MediaSDK-cpfoylthzjesllgiwfinshzinpbu/Build/Products/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = MediaExampleIOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;

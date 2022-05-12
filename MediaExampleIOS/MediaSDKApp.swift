@@ -1,9 +1,10 @@
 //
-//  MediaExampleIOSApp.swift
-//  MediaExampleIOS
+//  MediaSDKApp.swift
+//  MediaSDK
 //
-//  Created by tyang on 2022/3/31.
+//  Created by tyang on 2022/1/5.
 //
+
 import SwiftUI
 import MediaRTC
 import JJSwiftLog
@@ -23,7 +24,7 @@ class AppDelegate: NSObject, UIApplicationDelegate {
 }
 
 @main
-struct MediaExampleIOSApp: App {
+struct MediaSDKApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate;
 
     init() {

@@ -6,15 +6,15 @@
 	<dict>
 		<key>Frameworks/WebSocket.framework/Info.plist</key>
 		<data>
-		kkkoEjLaWtEvtMrrMcIhWYy7nxc=
+		9z4RjsI0GT7UJXSXRFlze0sTj44=
 		</data>
 		<key>Frameworks/WebSocket.framework/WebSocket</key>
 		<data>
-		9x6J6wTHMHwpN2gR1jYtn45CY/w=
+		sT7nzpBA3R3/jsd67BtZLmFTCdo=
 		</data>
 		<key>Frameworks/WebSocket.framework/_CodeSignature/CodeResources</key>
 		<data>
-		7bi5gzFu9b6oE76CdWVq2glQDY4=
+		384V6jPGHTR90araP79BH/yCQTM=
 		</data>
 		<key>Headers/MediaRTC-Swift.h</key>
 		<data>
@@ -26,67 +26,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tRtmRC/TTNyKmyXMGlVSA6bgjAU=
-		</data>
-		<key>Modules/MediaRTC.swiftmodule/Project/arm.swiftsourceinfo</key>
-		<data>
-		s/225ZuRGr/4n28NHd48OjFLUEA=
+		VJ9IyURMfUEmGZnlT2UXx4jwyRw=
 		</data>
 		<key>Modules/MediaRTC.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		bZaKKQ9h99qEx+Ul4rUPO4BjqLE=
+		SZdiX6wXOibsVyLIVr1wr5/IzPM=
 		</data>
 		<key>Modules/MediaRTC.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		bZaKKQ9h99qEx+Ul4rUPO4BjqLE=
-		</data>
-		<key>Modules/MediaRTC.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
-		<data>
-		s/225ZuRGr/4n28NHd48OjFLUEA=
-		</data>
-		<key>Modules/MediaRTC.swiftmodule/Project/armv7.swiftsourceinfo</key>
-		<data>
-		s/225ZuRGr/4n28NHd48OjFLUEA=
-		</data>
-		<key>Modules/MediaRTC.swiftmodule/arm.swiftdoc</key>
-		<data>
-		aDMgheEf78Fho28X+D6cqSmnyxc=
-		</data>
-		<key>Modules/MediaRTC.swiftmodule/arm.swiftmodule</key>
-		<data>
-		nl1610JRmey1/cgMwPNQKrayO8M=
+		SZdiX6wXOibsVyLIVr1wr5/IzPM=
 		</data>
 		<key>Modules/MediaRTC.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		gwcavoXOBcZv8yJumKbgkk/crug=
+		2BZOCEvbFVfCu3G41O3k7HEjnXI=
 		</data>
 		<key>Modules/MediaRTC.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QsCnnhH3eyZB1P349grrfRIuqTY=
+		3/5qi8dFzhRtsWktTASWLSn8IbU=
 		</data>
 		<key>Modules/MediaRTC.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		gwcavoXOBcZv8yJumKbgkk/crug=
+		2BZOCEvbFVfCu3G41O3k7HEjnXI=
 		</data>
 		<key>Modules/MediaRTC.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		QsCnnhH3eyZB1P349grrfRIuqTY=
-		</data>
-		<key>Modules/MediaRTC.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<data>
-		aDMgheEf78Fho28X+D6cqSmnyxc=
-		</data>
-		<key>Modules/MediaRTC.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<data>
-		nl1610JRmey1/cgMwPNQKrayO8M=
-		</data>
-		<key>Modules/MediaRTC.swiftmodule/armv7.swiftdoc</key>
-		<data>
-		aDMgheEf78Fho28X+D6cqSmnyxc=
-		</data>
-		<key>Modules/MediaRTC.swiftmodule/armv7.swiftmodule</key>
-		<data>
-		nl1610JRmey1/cgMwPNQKrayO8M=
+		3/5qi8dFzhRtsWktTASWLSn8IbU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,43 +61,27 @@
 	<dict>
 		<key>Frameworks/WebSocket.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kkkoEjLaWtEvtMrrMcIhWYy7nxc=
-			</data>
 			<key>hash2</key>
 			<data>
-			28ZNuNswyCQACY6kxh0wsZdxoyXmwpviBvpo63yTlPE=
+			XErax+3qT6CFmAJQCBduZwCfhKnBHBPbTvRJ3D3VZ+A=
 			</data>
 		</dict>
 		<key>Frameworks/WebSocket.framework/WebSocket</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9x6J6wTHMHwpN2gR1jYtn45CY/w=
-			</data>
 			<key>hash2</key>
 			<data>
-			YtjReCvJtxLs3mNwwjsOiJ0+nnXIFrHiGajNnU73aS8=
+			+XUHsqwXSFMA4t2kAzqhNZD4Y16LRJ+zh8DyoORrkjc=
 			</data>
 		</dict>
 		<key>Frameworks/WebSocket.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7bi5gzFu9b6oE76CdWVq2glQDY4=
-			</data>
 			<key>hash2</key>
 			<data>
-			sby7+zniUMCwnFb+kYxkmu5rroe6K1XvfLlDWKQrcLo=
+			GrAxWJvDCNTz/YHLrwKeB+GaW/YBhwKKosBw1YmPi04=
 			</data>
 		</dict>
 		<key>Headers/MediaRTC-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dKVrVJqQFtS5XBue1susXvmU248=
-			</data>
 			<key>hash2</key>
 			<data>
 			USvkKH/67RPmX64v1M5bP/OhJWROaCFpK1DvChGGvYs=
@@ -141,186 +89,55 @@
 		</dict>
 		<key>Headers/MediaRTC.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XdMEL/K2QlgdeNh2UCaujNMxEs4=
-			</data>
 			<key>hash2</key>
 			<data>
 			wfJOa/95PzPKTWDkbJPqvcYFTRZ63ewnM5vr20TaEbc=
 			</data>
 		</dict>
-		<key>Modules/MediaRTC.swiftmodule/Project/arm.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			s/225ZuRGr/4n28NHd48OjFLUEA=
-			</data>
-			<key>hash2</key>
-			<data>
-			Eazt8YyGShxwk+C1Gv/suZiDF3SwPrfOSx5pS6sSLOE=
-			</data>
-		</dict>
 		<key>Modules/MediaRTC.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bZaKKQ9h99qEx+Ul4rUPO4BjqLE=
-			</data>
 			<key>hash2</key>
 			<data>
-			I4QkwFEGosOnxmP48mOk2uJGo0ovHqNox3kq+Qo8gT0=
+			ljoUsPbevzhskfMmzRXLQmexI2+tIevdFyBuAQzAi1g=
 			</data>
 		</dict>
 		<key>Modules/MediaRTC.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bZaKKQ9h99qEx+Ul4rUPO4BjqLE=
-			</data>
 			<key>hash2</key>
 			<data>
-			I4QkwFEGosOnxmP48mOk2uJGo0ovHqNox3kq+Qo8gT0=
-			</data>
-		</dict>
-		<key>Modules/MediaRTC.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			s/225ZuRGr/4n28NHd48OjFLUEA=
-			</data>
-			<key>hash2</key>
-			<data>
-			Eazt8YyGShxwk+C1Gv/suZiDF3SwPrfOSx5pS6sSLOE=
-			</data>
-		</dict>
-		<key>Modules/MediaRTC.swiftmodule/Project/armv7.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			s/225ZuRGr/4n28NHd48OjFLUEA=
-			</data>
-			<key>hash2</key>
-			<data>
-			Eazt8YyGShxwk+C1Gv/suZiDF3SwPrfOSx5pS6sSLOE=
-			</data>
-		</dict>
-		<key>Modules/MediaRTC.swiftmodule/arm.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aDMgheEf78Fho28X+D6cqSmnyxc=
-			</data>
-			<key>hash2</key>
-			<data>
-			VM5c9uQVMcBI+z9x92LgkQZYObhZ01ptVoqx10dnr3Q=
-			</data>
-		</dict>
-		<key>Modules/MediaRTC.swiftmodule/arm.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nl1610JRmey1/cgMwPNQKrayO8M=
-			</data>
-			<key>hash2</key>
-			<data>
-			bOC6H9jxPbne6c5tOyE4GfLXG80gd/+zZFxD+X2j++8=
+			ljoUsPbevzhskfMmzRXLQmexI2+tIevdFyBuAQzAi1g=
 			</data>
 		</dict>
 		<key>Modules/MediaRTC.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gwcavoXOBcZv8yJumKbgkk/crug=
-			</data>
 			<key>hash2</key>
 			<data>
-			ZHCFfwWsg6+PtupvvRpOWKcWeo84AJ+HIhZZhtqJQQY=
+			ay3Yec7YCAtz1u07fEGJy0bzfb7I49dJT6ce9EIDE3o=
 			</data>
 		</dict>
 		<key>Modules/MediaRTC.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QsCnnhH3eyZB1P349grrfRIuqTY=
-			</data>
 			<key>hash2</key>
 			<data>
-			72QzEEMEvpOt9PPs/LboJkbPc6Q9rEd6klZ6n4/P3sY=
+			HWER81e1Z9TIA2X3ozGu6KYzLRSYJuhYGL9dMkq6Q0k=
 			</data>
 		</dict>
 		<key>Modules/MediaRTC.swiftmodule/arm64.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gwcavoXOBcZv8yJumKbgkk/crug=
-			</data>
 			<key>hash2</key>
 			<data>
-			ZHCFfwWsg6+PtupvvRpOWKcWeo84AJ+HIhZZhtqJQQY=
+			ay3Yec7YCAtz1u07fEGJy0bzfb7I49dJT6ce9EIDE3o=
 			</data>
 		</dict>
 		<key>Modules/MediaRTC.swiftmodule/arm64.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QsCnnhH3eyZB1P349grrfRIuqTY=
-			</data>
 			<key>hash2</key>
 			<data>
-			72QzEEMEvpOt9PPs/LboJkbPc6Q9rEd6klZ6n4/P3sY=
-			</data>
-		</dict>
-		<key>Modules/MediaRTC.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aDMgheEf78Fho28X+D6cqSmnyxc=
-			</data>
-			<key>hash2</key>
-			<data>
-			VM5c9uQVMcBI+z9x92LgkQZYObhZ01ptVoqx10dnr3Q=
-			</data>
-		</dict>
-		<key>Modules/MediaRTC.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nl1610JRmey1/cgMwPNQKrayO8M=
-			</data>
-			<key>hash2</key>
-			<data>
-			bOC6H9jxPbne6c5tOyE4GfLXG80gd/+zZFxD+X2j++8=
-			</data>
-		</dict>
-		<key>Modules/MediaRTC.swiftmodule/armv7.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aDMgheEf78Fho28X+D6cqSmnyxc=
-			</data>
-			<key>hash2</key>
-			<data>
-			VM5c9uQVMcBI+z9x92LgkQZYObhZ01ptVoqx10dnr3Q=
-			</data>
-		</dict>
-		<key>Modules/MediaRTC.swiftmodule/armv7.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nl1610JRmey1/cgMwPNQKrayO8M=
-			</data>
-			<key>hash2</key>
-			<data>
-			bOC6H9jxPbne6c5tOyE4GfLXG80gd/+zZFxD+X2j++8=
+			HWER81e1Z9TIA2X3ozGu6KYzLRSYJuhYGL9dMkq6Q0k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wogWFaHnKkcr3zswrji+1C+YLNs=
-			</data>
 			<key>hash2</key>
 			<data>
 			7TmPWXtpgMwTtIyJWoUVDFpYcQMZQdk16EG6zFHrzSw=
