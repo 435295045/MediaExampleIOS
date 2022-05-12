@@ -31,12 +31,12 @@
 		69B21F7D6EAC039C09D85635 /* JYSystemAuthorityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B216F52EC2DB9E1337AFEB /* JYSystemAuthorityModel.swift */; };
 		F64BC26F282CB4AF0020613F /* WebSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F64BC26E282CB4AF0020613F /* WebSocket.framework */; };
 		F64BC270282CB4AF0020613F /* WebSocket.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F64BC26E282CB4AF0020613F /* WebSocket.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		F64BC272282CB4B90020613F /* MediaRTC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F64BC271282CB4B90020613F /* MediaRTC.framework */; };
-		F64BC273282CB4B90020613F /* MediaRTC.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F64BC271282CB4B90020613F /* MediaRTC.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F64D5DED27F595DB00FAEC13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F64D5DEC27F595DB00FAEC13 /* Assets.xcassets */; };
 		F64D5DF027F595DB00FAEC13 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F64D5DEF27F595DB00FAEC13 /* Preview Assets.xcassets */; };
 		F6537DD2280A4BAA000D1D4D /* WebRTC.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6537DD0280A4BA1000D1D4D /* WebRTC.xcframework */; };
 		F6537DD3280A4BAA000D1D4D /* WebRTC.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6537DD0280A4BA1000D1D4D /* WebRTC.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F6A11C67282CDDE8005A8C77 /* MediaRTC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6A11C66282CDDE8005A8C77 /* MediaRTC.framework */; };
+		F6A11C68282CDDE8005A8C77 /* MediaRTC.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6A11C66282CDDE8005A8C77 /* MediaRTC.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,7 +47,7 @@
 			dstSubfolderSpec = 10;
 			files = (
 				F64BC270282CB4AF0020613F /* WebSocket.framework in Embed Frameworks */,
-				F64BC273282CB4B90020613F /* MediaRTC.framework in Embed Frameworks */,
+				F6A11C68282CDDE8005A8C77 /* MediaRTC.framework in Embed Frameworks */,
 				F6537DD3280A4BAA000D1D4D /* WebRTC.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
@@ -81,12 +81,12 @@
 		69B21F39EA4D0A800193B101 /* P2PViewList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = P2PViewList.swift; sourceTree = "<group>"; };
 		BA60426175ECDADFC53BA250 /* Pods-MediaExampleIOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MediaExampleIOS.debug.xcconfig"; path = "Target Support Files/Pods-MediaExampleIOS/Pods-MediaExampleIOS.debug.xcconfig"; sourceTree = "<group>"; };
 		F64BC26E282CB4AF0020613F /* WebSocket.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebSocket.framework; sourceTree = "<group>"; };
-		F64BC271282CB4B90020613F /* MediaRTC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MediaRTC.framework; sourceTree = "<group>"; };
 		F64D5DE527F595D700FAEC13 /* MediaExampleIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MediaExampleIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F64D5DEC27F595DB00FAEC13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F64D5DEF27F595DB00FAEC13 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F64D5DF127F595DB00FAEC13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F6537DD0280A4BA1000D1D4D /* WebRTC.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = WebRTC.xcframework; sourceTree = "<group>"; };
+		F6A11C66282CDDE8005A8C77 /* MediaRTC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MediaRTC.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +95,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F64BC26F282CB4AF0020613F /* WebSocket.framework in Frameworks */,
-				F64BC272282CB4B90020613F /* MediaRTC.framework in Frameworks */,
+				F6A11C67282CDDE8005A8C77 /* MediaRTC.framework in Frameworks */,
 				F6537DD2280A4BAA000D1D4D /* WebRTC.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -189,7 +189,7 @@
 		8C2F8C632D462199FCC60065 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				F64BC271282CB4B90020613F /* MediaRTC.framework */,
+				F6A11C66282CDDE8005A8C77 /* MediaRTC.framework */,
 				F64BC26E282CB4AF0020613F /* WebSocket.framework */,
 				F6537DD0280A4BA1000D1D4D /* WebRTC.xcframework */,
 			);
